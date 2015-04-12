@@ -15,4 +15,4 @@ Just call ./build.sh to build a debian vagrant base box.
 
 ### Notes
 
-This script basted on original Dotzero's [repo](https://github.com/dotzero/vagrant-debian-wheezy-64) with some tweaks.
+This script is based on Dotzero's [repo](https://github.com/dotzero/vagrant-debian-wheezy-64) with some tweaks.
