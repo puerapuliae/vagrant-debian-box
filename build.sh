@@ -23,8 +23,8 @@ set -o errexit
 
 # Configurations
 BOX="debian-jessie-64"
-ISO_URL="http://cdimage.debian.org/cdimage/jessie_di_rc2/amd64/iso-cd/debian-jessie-DI-rc2-amd64-netinst.iso"
-ISO_MD5="82d3ff6d2422af72f5e1a82de88c21ea"
+ISO_URL="http://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-8.0.0-amd64-netinst.iso"
+ISO_MD5="d9209f355449fe13db3963571b1f52d4"
 
 # location, location, location
 FOLDER_BASE=$(pwd)
