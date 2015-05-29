@@ -16,7 +16,7 @@ Just call
 
 to build a debian vagrant base box and type
 
-	vagrant box add "debian-jessie-64" debian-jessie.box 
+	vagrant box add "debian-jessie" debian-jessie-64.box
 
 to add it as a vagrant box with name debian-jessie.
 
